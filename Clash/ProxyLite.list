@@ -1,10 +1,13 @@
 # 代理补充列表
 
-# 域名后缀匹配
-# DOMAIN-SUFFIX,qichiyu.com
+# 域名后缀匹配，指定域名走代理
+DOMAIN-SUFFIX,uaa.com
+DOMAIN-SUFFIX,javrate.com
+DOMAIN-SUFFIX,agoda.com
+DOMAIN-SUFFIX,booking.com
 
-# 域名关键字匹配
-# DOMAIN-KEYWORD,1e100
+# Private域名关键字匹配
+DOMAIN-KEYWORD,missav
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
@@ -30,8 +33,3 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
-# Private域名后缀匹配
-# DOMAIN-SUFFIX,uaa.com
-
-# Private域名关键字匹配
-# DOMAIN-KEYWORD,missav
