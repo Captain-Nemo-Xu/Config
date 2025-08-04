@@ -3,11 +3,11 @@
 # 域名后缀匹配，指定域名走代理
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,javrate.com
-DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,booking.com
 
 # Private域名关键字匹配
 DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,agoda
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
