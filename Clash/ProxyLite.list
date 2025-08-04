@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,booking.com
 # Private域名关键字匹配
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,agoda
+DOMAIN-KEYWORD,airbnb
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
