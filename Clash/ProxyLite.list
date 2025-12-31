@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,api.34bs5xmj09.com
 DOMAIN-SUFFIX,1.futo-on.com
 
-
 # Private域名关键字匹配
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,agoda
@@ -22,6 +21,7 @@ DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,grab
 DOMAIN-KEYWORD,diyibanzhu
 DOMAIN-KEYWORD,sis
+DOMAIN-KEYWORD,fedex
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
