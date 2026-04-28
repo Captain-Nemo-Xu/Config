@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,ca.bev65q.vip
 DOMAIN-SUFFIX,yazhouse8.com
 DOMAIN-SUFFIX,hotupub.net
 DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,xchina.co
+DOMAIN-SUFFIX,18mh.net
+
 
 
 
@@ -41,6 +44,8 @@ DOMAIN-KEYWORD,fedex
 DOMAIN-KEYWORD,lantern
 DOMAIN-KEYWORD,hgame
 DOMAIN-KEYWORD,novel
+DOMAIN-KEYWORD,18
+
 
 
 # IP段匹配
