@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,ngk.com
 DOMAIN-SUFFIX,ngksparkplugs.com
 DOMAIN-SUFFIX,fanqianglu.com
 DOMAIN-SUFFIX,oursogo.com
-
+DOMAIN-SUFFIX,19.damaiq5t.com
 
 # Private域名关键字匹配
 DOMAIN-KEYWORD,missav
@@ -56,6 +56,7 @@ DOMAIN-KEYWORD,hgame
 DOMAIN-KEYWORD,novel
 DOMAIN-KEYWORD,18
 DOMAIN-KEYWORD,ubuy
+
 
 
 
