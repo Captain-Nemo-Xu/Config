@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,ngksparkplugs.com
 DOMAIN-SUFFIX,fanqianglu.com
 DOMAIN-SUFFIX,oursogo.com
 DOMAIN-SUFFIX,19.damaiq5t.com
+DOMAIN-SUFFIX,wireguard.com
+
 
 # Private域名关键字匹配
 DOMAIN-KEYWORD,missav
