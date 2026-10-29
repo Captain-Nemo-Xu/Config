@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配，指定域名走代理
+DOMAIN-SUFFIX,hitun.io
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,javrate.com
 DOMAIN-SUFFIX,booking.com
